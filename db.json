@@ -1,14 +1,28 @@
 {
-    "users":[
+    "users": [
         {
-            "id":1,
-            "username":"Gulzeesh",
-            "email":"gulzeesh@gmail.com"
+            "id": 1,
+            "username": "Gulzeesh",
+            "email": "gulzeesh@gmail.com"
         }
     ],
-    "admin":[{
-        "id":1,
-        "email":"admin@gmail.com",
-        "password":"masai"
-    }]
+    "admin": [
+        {
+            "id": 1,
+            "email": "admin@gmail.com",
+            "password": "masai"
+        }
+    ],
+    "books": [
+        {
+            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+            "book_name": "Harry Potter and the Philosopher's Stone",
+            "author": "J. K. Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Bloomsbury",
+            "cost": 1299,
+            "borrowed": false
+        }
+    ]
 }
